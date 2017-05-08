@@ -26,7 +26,7 @@ This  repository includes the following files:
 Using the Udacity simulator and drive.py function(provided by udacity), the car can be driven autonomously around the track by using the funcition(in the terminal)
 
 ```
-python drive.py model.h5
+python drive.py model2.h5
 ```
 #### 3. Project Code
 
