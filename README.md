@@ -110,6 +110,6 @@ Data usage was the key in the project!!!..
 
 ## Video
 
-[![R (video)](https://youtu.be/22hXmoYl1YU)
+This is the [link](https://youtu.be/22hXmoYl1YU) to the video
 
 
