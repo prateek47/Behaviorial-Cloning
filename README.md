@@ -110,6 +110,6 @@ Data usage was the key in the project!!!..
 
 ## Video
 
-[![Running car on the simulator (video)](https://youtu.be/22hXmoYl1YU)
+[![R (video)](https://youtu.be/22hXmoYl1YU)
 
 
