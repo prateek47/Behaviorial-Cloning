@@ -2,7 +2,7 @@
 
 [//]: # (Image References)
 
-[image1]: ./examples/distribution
+[image1]: ./examples/distribution.png
 [image2]: ./examples/center_2016_12_01_13_32_45_578.jpg
 [image3]: ./examples/center_2016_12_01_13_33_15_644_rightturn.jpg
 [image4]: ./examples/center_2016_12_01_13_31_13_584_leftturn.jpg
