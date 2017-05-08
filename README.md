@@ -108,4 +108,8 @@ The validation set mainly helped in deteriming overfitting, while training set w
 
 Data usage was the key in the project!!!..
 
+## Video
+
+[![Running car on the simulator (video)](https://youtu.be/22hXmoYl1YU)
+
 
